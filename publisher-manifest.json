@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a18eb4c819f9ed732a417124",
+  "owner": "kcmgexnmk",
+  "repo": "page-2717edbc58b35b3dc063f345",
+  "title": "慈善机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2717edbc58b35b3dc063f345",
+      "a": "慈善机场",
+      "b": "稳定全球clash加速器",
+      "entity": "慈善机场",
+      "brand": "慈善机场",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1cdcb6457c84ca350235c23b7a89c4f9fa447b6cd641a6eaa62239e7af6900db",
+      "content": {
+        "primary_entity": "慈善机场",
+        "keyword1": "慈善机场",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，慈善机场把跨境线路、多设备支持和灵活的订阅周期放在一起考虑。基础版每月 100GB 流量适合个人轻量使用，旗舰版每月 300GB 流量配合 IPLC 专线更适合游戏与高清流媒体，团队版每月 1000GB 流量和 20 台设备上限面向小团队。选择套餐时先确认常用设备数量与每月流量需求，再决定月付或年付。",
+          "AI_HERO_SUBTITLE": "跨境加速，按需选套餐",
+          "AI_HERO_INTRO": "慈善机场提供按月订阅的海外加速服务，线路覆盖常用地区，客户端支持 Clash 等主流工具。套餐按流量、设备数和线路等级区分，选购时关注自己的设备数量与使用场景即可。",
+          "AI_VISUAL_TITLE": "选对套餐，加速更省心",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付方案折算每月成本更低",
+          "AI_FEATURES_TITLE": "套餐与设备匹配要点",
+          "AI_FEATURES_INTRO": "先按使用强度筛套餐，再对照设备数量决定档位。",
+          "AI_FEATURE_TITLE_1": "流量档位怎么选",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月用量挑即可。",
+          "AI_FEATURE_TITLE_2": "设备数量先确认",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台、旗舰版 5 台、团队版 20 台设备同时在线。",
+          "AI_FEATURE_TITLE_3": "订阅周期可灵活调整",
+          "AI_FEATURE_TEXT_3": "月付便于短期试用，年付折算后每年可省下约两个月费用。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLIENTS_INTRO": "不同系统对应不同客户端，按设备类型挑一个导入订阅即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合个人日常，旗舰版适合多设备与游戏，团队版面向小团队协作。年付方案在月付基础上按 10 个月计费，比较时把流量和设备数放在一起看。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "从选择服务到完成配置，按顺序操作即可上手。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，在基础版、旗舰版或团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认操作系统与客户端版本是否满足订阅导入条件，并准备好订阅地址。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "打开客户端，按客户端文档的说明导入订阅，完成后选择合适节点使用。",
+          "AI_FAQ_INTRO": "套餐选择、设备限制与订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻加速",
+          "AI_CLOSING_TEXT": "对照设备数量与流量需求选定套餐，按客户端文档完成订阅配置即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版适合轻度上网与单人使用，旗舰版适合多设备与游戏加速，团队版适合高流量多设备场景。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，可根据同时在线设备数量选择。",
+          "AI_FAQ_ANSWER_3": "年付比月付更优惠，例如基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，长期使用推荐年付。",
+          "AI_FAQ_ANSWER_4": "订阅链接导入后，请在客户端内更新订阅，即可看到对应节点列表，按需选择线路连接。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 IPLC 专线游戏加速优化与 7x24 优先工单支持，适合对延迟和稳定性有要求的用户。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "年付和月付哪个更划算？",
+          "AI_FAQ_QUESTION_4": "订阅导入后如何更新节点？",
+          "AI_FAQ_QUESTION_5": "游戏加速推荐哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "alblbo.cn",
+    "host": "alblbo.cn"
+  },
+  "file_hashes": {
+    "index.html": "3de1e2eced2b5bae20b41c2b7d0f80c0386bcc7082c08d9c00fc2ffa09156812",
+    "sitemap.xml": "3479c1f6625568ef053833a1c3436fab82dfbc199a20d224b2070b9ee31e2007",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3a290a40931843c7ed2749e30b692153487ae1cc584609280f599c29125b92ac",
+    "robots.txt": "c6640eba5d7d0f5fcdfbc4408a46c161c21ec49dc7d108841951263de306695e",
+    "f5e3e7eef6704276a8e3017fbae83544.txt": "42bdda44972e8014a9ff868e2bce0e44b21a7f0c5c894f505f88952d6744293f"
+  },
+  "revision": "ade7d358bc25e6b299472d90c1668a0179708a77349a2dfca0d8a0a1a88a7319"
+}
